@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Austin
-- 👀 I’m interested in becoming a full stack web developer.
-- 🌱 I’m currently learning everything and anything I can,
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me austinfrench2000@outlook.com
+👋 Hi, I’m Austin French
+  I’m interested in becoming a full stack web developer.
+I am always willing to learn something new,I’m currently
+learning everything and anything I can.
+You can contact me via email at: French.Austin95@outlook.com
 
 <!---
 LordOtterton/LordOtterton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
